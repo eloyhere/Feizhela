@@ -1,0 +1,22 @@
+{
+  "test": "accelerated-eight-hour-volume",
+  "device": "NCO-AL00",
+  "sdk": 35,
+  "packets": 299520,
+  "samples": 2995200,
+  "epochs": 960,
+  "rawPayloadBytes": 53913600,
+  "sha256": "d80385b686e6d47da235549c382f3e40d3aa8747ccba6d0acfffb8de0c68c834",
+  "recordingAndConcurrentAnalysisMillis": 73404,
+  "completeAnalysisMillis": 73445,
+  "activeOwnerReconstructionMillis": 14598,
+  "terminalReplayMillis": 28974,
+  "databaseAndWalBytesBeforeClose": 107805608,
+  "sampledJavaHeapHighBytes": 137994992,
+  "analysisReadPageLimit": 128,
+  "analysisPageReads": 9124,
+  "maxWriterBatchMillis": 58,
+  "wallClockEightHours": false,
+  "gattTransportExercised": false,
+  "passed": true
+}

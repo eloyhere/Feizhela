@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">菲哲拉</string>
+    <string name="menu_transform">變換</string>
+    <string name="menu_reflow">自適應</string>
+    <string name="menu_slideshow">投影片</string>
+    <string name="menu_settings">設定</string>
+    <string name="navigation_drawer_open">開啟導覽選單</string>
+    <string name="fab_content_description">執行操作</string>
+    <string name="image_view_item_transform_content_description">頭像</string>
+    <string name="transform_item">第 %1$d 項</string>
+    <string name="reflow_text">這是自適應頁面</string>
+    <string name="slideshow_text">這是投影片頁面</string>
+    <string name="settings_text">這是設定頁面</string>
+    <string name="action_placeholder">請設定此操作</string>
+</resources>
